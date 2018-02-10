@@ -1,5 +1,4 @@
 import re
-import httplib2
 import urllib.request
 from itertools import groupby
 
